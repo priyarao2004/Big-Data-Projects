@@ -1,2 +1,2 @@
 # Big-Data-Projects
-A few projects I have completed while learning data science and big data analytics. Specific topics include: Parallel &amp; out-of-core algorithms and data structures, rules mining, clustering algorithms, text mining, string algorithms, data reduction techniques, and learning algorithms.
+Download each juypter notebook file & take a look! My code is broken down step by step :). 
